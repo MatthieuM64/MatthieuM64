@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Dr. Matthieu Mangeat (@MatthieuM64).
+- 👋 Hi, I’m Dr. Matthieu Mangeat (<a href='https://twitter.com/MatthieuM64'>@MatthieuM64</a>).
 - 👀 I’m interested in out-of-equilibrium statistical physics, active matter, biophysics, and glassy disordered systems.
+- 🌐 https://mangeatm.fr
 - 📫 How to reach me: mangeat@lusi.uni-sb.de / admin@mangeatm.fr
 
 <!---
